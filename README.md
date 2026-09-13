@@ -7,7 +7,7 @@
 - 点「重新开始」可重开一局。
 
 ## 在线试玩
-**🎮 点这里直接玩：** https://zzy-2011.github.io/memory/
+**🎮 点这里直接玩：** https://zzy-2011.github.io/jiyifanpai/
 
 ## 本地运行
 下载本仓库，直接用浏览器打开 `index.html` 即可。
